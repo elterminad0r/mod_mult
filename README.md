@@ -3,3 +3,6 @@ Visualisation of a modular multiplication table in processing. Generates slowly.
 
 ![screenshot](https://github.com/elterminad0r/mod_mult/blob/master/half.png)
 ![screenshot](https://github.com/elterminad0r/mod_mult/blob/master/fin.png)
+
+and in higher resolution:
+![screenshot](https://github.com/elterminad0r/mod_mult/blob/master/higher.png)

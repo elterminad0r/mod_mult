@@ -1,6 +1,6 @@
 from draw_table import draw_table
 
-PERFRAME = 50
+PERFRAME = 1000
 
 def setup():
     global tab
@@ -8,7 +8,7 @@ def setup():
     colorMode(HSB, 255, 255, 255)
     noStroke()
     background(0)
-    tab = draw_table(4)
+    tab = draw_table(1)
 
 def draw():
     try:
