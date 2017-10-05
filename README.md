@@ -6,6 +6,3 @@ Visualisation of a modular multiplication table in processing. Generates slowly.
 
 and in higher resolution:
 ![screenshot](https://github.com/elterminad0r/mod_mult/blob/master/screenshots/higher.png)
-
-and a prime number:
-![screenshot](https://github.com/elterminad0r/mod_mult/blob/master/screenshots/higher.png)
