@@ -4,7 +4,7 @@ PERFRAME = 1000
 
 def setup():
     global tab
-    size(1000, 1000)
+    size(1009, 1009)
     colorMode(HSB, 255, 255, 255)
     noStroke()
     background(0)
